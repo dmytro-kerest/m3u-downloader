@@ -1,0 +1,15 @@
+{
+  "name": "m3u-downloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "playlist-parser": "^0.0.12",
+    "progress-bar-cli": "^1.0.4"
+  }
+}
